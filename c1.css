@@ -1,0 +1,28 @@
+#container
+{
+    display: flex;
+    
+}
+#heading
+{
+    color: black;
+    padding: 30px;
+   
+}
+a
+{
+    text-decoration: none;
+    color: burlywood;
+ 
+}
+#link1
+{
+    padding: 30px;
+    background-color: brown;
+}
+
+#link2
+{
+    padding: 30px;
+    background-color: blanchedalmond;
+}
